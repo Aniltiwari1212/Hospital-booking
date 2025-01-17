@@ -1,0 +1,734 @@
+@media (max-width:1199.98px){
+    .navbar-brand img {
+        max-width: 170px;
+    }
+    .nav-item:not(:last-child) {
+        padding-right: 15px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 16px;
+    }
+    .banner-sec h1 {
+        font-size: 50px;
+        line-height: 60px;
+        margin-top: 20px;
+    }
+    .banner-sec p{
+        font-size: 16px;
+    }
+   .banner-sec button.carousel-control-next{
+        right: 2%;
+    }
+    .banner-sec button.carousel-control-prev {
+        left: 2%;
+    }
+    .award-left h3 {
+        font-size: 20px;
+        color: #fff;
+        font-weight: 800;
+    }
+    .award-left p {
+        color: #fff;
+        font-size: 14px;
+        line-height: 1.2;
+        height: 100%;
+    }
+    .awared-right button.owl-next {
+        top: -12px !important;
+        right: 0;
+        position: absolute;
+    }
+    .awared-right button.owl-prev {
+        position: absolute;
+        top: -12px !important;
+        left: 0;
+    }
+    .meet-team .head-title h4{
+        font-size: 24px;
+    }
+    .meet-team .head-title h3{
+        font-size: 42px;
+    }
+    .treatment .sec_head{
+        font-size: 38px;
+    }
+    .treat-img h5{
+        font-size: 18px;
+    }
+    .choose_sec .sec_head {
+        margin-bottom: 30px;
+        font-size: 42px;
+    }
+    .choose_box h4{
+        font-size: 20px;
+    }
+    .choose_box h4 span{
+        font-size: 28px;
+    }
+    .working-process .head-title h5{
+        font-size: 12px;
+    }
+    .working-process .head-title h2{
+        font-size: 42px;
+    }
+    .work-detail h4{
+        font-size: 24px;
+    }
+    .work-detail p {
+        font-size: 14px;
+        line-height: 22px !important;
+    }
+    .work-shape {
+        top: 36%;
+    }
+    .avi-right {
+        right: 0px;
+    }
+    .avi-detail h4{
+        font-size: 24px;
+    }
+    .avi-detail h2{
+        font-size: 46px;
+    }
+    .avi-detail {
+        padding-left: 40px;
+    }
+    .avilable-box {
+        padding: 26px;
+    }
+    .available {
+        padding: 150px 0 0px;
+    }
+    .avi-right img{
+        width: 90%;
+    }
+    .avilable-box {
+        padding: 16px;
+    }
+    .collapse_sec .sec_head{
+        font-size: 42px;
+    }
+    .subHead_box h4{
+        font-size: 22px;
+    }
+    .custom_row >div {
+        margin-bottom: 30px !important;
+    }
+    .breif-txt .blue-btn {
+        padding: 8px 12px;
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .cont-btn .pink_btn {
+        line-height: 14px;
+        padding: 10px 12px;
+        font-size: 10px;
+    }
+    .profile-header-write-review .blue-btn{
+        font-size: 16px !important;
+    }
+    .sideBar_form .blue-btn {
+        font-size: 14px;
+    }
+    .rating {
+        margin-top: 1px;
+    }
+    .breif-txt p {
+        font-size: 14px;
+        line-height: 1.2;
+        margin-top: 5px;
+    }
+    .similar_doc .breif-txt p {
+        font-size: 12px;
+        line-height: 1.2;
+        margin-top: 5px;
+    }
+    .sideBar_form .sticky_bar .breif-txt h4 {
+        line-height: 0;
+    }
+    .mark-img {
+        max-width: 14px;
+        vertical-align: middle!important;
+    }
+    .cont-btn .sky-blue {
+        padding: 10px 12px;
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .cont-btn .sky-blue i {
+        font-size: 14px;
+    }
+    .cont-btn .blue-btn i {
+        vertical-align: middle;
+        font-size: 14px;
+        margin-right: 5px;
+    }
+    .docQua_dtl ul {
+        padding-left:0px;
+    }
+    .specializes ul li {
+        margin-bottom: 10px !important;
+    }
+    .similar_doc .breif-txt h4 a {
+        color: #3d4461;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .rating i {
+        color: #FFDF00;
+        font-size: 10px !important;
+    }
+    .testimonials .white_txt {
+        color: #fff !important;
+        font-size: 32px !important;
+    }
+    .main-headTab ul a{
+        font-size: 14px;
+    }
+    .main-headTab ul li:not(:last-child) {
+        margin-right: 5px;
+    }
+    .view-profile-btns .sky-blue {
+        padding: 10px 16px;
+        font-size: 10px;
+    }
+    .degree .badge {
+        font-size: 10px!important;
+    }
+    .degree li {
+        margin-right: 10px;
+    }
+    .treatment_tab {
+        min-width: 210px;
+        margin-right: 20px;
+    }
+    .treat_page .sideBar_form {
+        min-width: 285px;
+        margin-left: 10px;
+    }
+    .treatment_tab .nav-link {
+        line-height: 16px;
+        font-size: 16px !important;
+        margin-right: 12px;
+    }
+}
+@media(max-width:1023.98px){
+    .treat_page .trtmntTabs {
+        flex-wrap: wrap;
+    }
+    .treatment_tab {
+        min-width: inherit;
+        flex-direction: row !important;
+        width: 100%;
+        flex-wrap: nowrap;
+    }
+    .treat_page .sideBar_form {
+        min-width: inherit;
+        margin-left: 0;
+        width: 100%;
+    }
+}
+@media(max-width:991.98px){
+    .banner-sec h1 {
+        font-size: 30px;
+        line-height: 1.3;
+    }
+    .banner-sec p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+    .srch-right{
+        height: 100%;
+    }
+    .srch-right img{
+        width: 80px;
+        margin-top: 0;
+    }
+    .social-icon a {
+        color: #000;
+        font-size: 12px;
+    }
+    .srch-txt {
+        padding-left: 12px;
+    }
+    .srch-txt h6 {
+        font-size: 10px;
+    }
+    .srch-txt h4 {
+        font-size: 22px;
+        margin: 3px 0 8px 0;
+    }
+    .srch-txt .sky-blue {
+        padding: 5px 12px;
+        font-size: 12px;
+        border-radius: 10px;
+    }
+    .srchform_box .form-control{
+        font-size: 12px;
+    }
+    .award-left h3{
+        font-size: 16px;
+    }
+    .award-left p{
+        font-size: 11px;
+    }
+    .awared-right button.owl-next {
+        position: absolute;
+        top: 0;
+        right: -38px !important;
+    }
+    .awared-right button.owl-prev {
+        position: absolute;
+        top: 0;
+        left: -44px !important;
+    }
+    .team-cont h3{
+        font-size: 22px !important;
+    }
+    .team-cont h5{
+        font-size: 14px;
+    }
+    .team-cont{
+        padding: 16px;
+    }
+    .treat-img img {
+        max-height: 50px;
+    }
+    .treat-img h5 {
+        font-size: 13px;
+        margin-top: 16px;
+    }
+    .treatment .sec_head {
+        font-size: 28px;
+    }
+    .treatment {
+        background: #fff;
+        padding: 50px 0 40px;
+    }
+    .front-head{
+        background-size: auto;
+    }
+    .work-detail h4 {
+        font-size: 17px;
+    }
+    .work-detail p {
+        font-size: 12px;
+        line-height: 18px !important;
+    }
+    .available {
+        padding: 120px 0 0px;
+    }
+    .avilable-box img {
+        width: 150px;
+    }
+    .avi-detail h2 {
+        font-size: 36px;
+    }
+    .avi-right {
+        right: -70px;
+    }
+    .avi-right img {
+        width: 70%;
+    }
+    .collapse_sec .sec_head {
+        font-size: 34px;
+    }
+    .subHead_box h4 {
+        font-size: 19px;
+        margin: 10px 0 0;
+    }
+    .collapse_box .accordion-body p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+    .collapse_box .accordion-item .accordion-button{
+        font-size: 22px;
+    }
+    .collapse_box .accordion-button::after{
+        width: 50px;
+        height: 50px;
+        font-size: 26px;
+    }
+    .ftr-head h3{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 10px;
+    }
+    .ftr-list li {
+        padding: 5px 0;
+        line-height: 20px;
+    }
+    .ftr-list li a {
+        font-size: 13px;
+    }
+    .work-shape {
+        top: 44%;
+    }
+    .nav-item {
+        text-align:left;
+    }
+    .doc-listSec .doc-breif {
+        padding: 20px 20px !important;
+    }
+    .menu-bar .blue-btn {
+        display: block;
+        text-align: center;
+    }
+    .work_box h3{
+        font-size: 28px;
+        margin: 0 0 5px;
+    }
+    .work_box div:not(:last-child) {
+        margin-right: 15px;
+        padding-right: 10px;
+    }
+    .treatment_form h4{
+        font-size: 20px;
+    }
+    .treat_page .trtmntTabs {
+        flex-wrap: wrap;
+    }
+}
+
+@media (min-width:992px){
+    .docList_bx {
+        display: flex;
+        justify-content: space-between;
+    }
+    .doc-contact {
+        min-width: 350px;
+        max-width: 350px;
+    }
+    .degree .badge {
+        background: #55acee;
+        color: #fff;
+        font-size: 11px;
+    }
+    
+}
+
+@media (min-width:768px) and (max-width:1023.98px){
+    
+}
+
+@media (max-width: 767.98px) {
+    .bnr-img {
+        display: none;
+    }
+    .loc-box button.btn.btn-primary {
+        width: 100%;
+    }
+    .banner-sec .carousel-caption {
+        text-align: center;
+        padding: 30px 20px;
+    }
+    .bnrForm_box{
+        margin-top: 0;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon{
+        width: 1rem;
+        height: 1rem;
+    }
+    button.carousel-control-next{
+        width: 30px;
+        height: 30px;
+    }
+    button.carousel-control-prev{
+        width: 30px;
+        height: 30px;
+    }
+    .sky-blue{
+        padding: 8px 20px;
+    }
+    .blue-btn{
+        padding: 8px 20px;
+    }
+    .bnrForm_box{
+        box-shadow: none;
+    }
+    .srchform_box .form-control{
+        margin-right: 10px;
+    }
+    .srchform_box{
+        padding: 20px;
+    }
+    .team-img{
+        width: 170px;
+    }
+    .team-cont {
+        padding: 26px;
+    }
+    .award-left{
+        text-align: center;
+    }
+    .meet-team .head-title h4 {
+        font-size: 14px;
+    }
+    .meet-team .head-title h3 {
+        font-size: 32px;
+    }
+    .work-icon img {
+        width: 150px;
+    }
+    .work-shape img{
+        display: none;
+    }
+    .collapse_box .accordion-item .accordion-button {
+        font-size: 14px;
+    }
+    .collapse_box .accordion-body p {
+        font-size: 11px;
+        line-height: 1.4;
+    }
+    .subHead_box h4{
+        font-size: 14px;
+    }
+    .collapse_sec .sec_head {
+        font-size: 30px;
+    }
+    .treat-img {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .work-box {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .choose_sec .row > div:nth-child(even) .choose_box {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column !important;
+    }
+    .avi-right {
+        right: -185px;
+    }
+    .avilable-box img {
+        width: 60px;
+    }
+    .avi-detail {
+        padding-left: 10px;
+    }
+    .avi-detail h4 {
+        font-size: 10px;
+    }
+    .awared-right button.owl-next{
+        top: 0 !important;
+    }
+    .awared-right button.owl-prev{
+        top: 0 !important;
+    }
+    .choose_box h4 {
+        font-size: 16px;
+    }
+    .choose_box h4 span {
+        font-size: 24px;
+    }
+    .choose_box.dayOne_font {
+        margin-bottom: 30px;
+    }
+    .work-detail h4 {
+        font-size: 24px;
+    }
+    .avi-right img {
+        width: 50%;
+    }
+    .avi-right {
+        right: -200px;
+    }
+    .avi-right img {
+        width: 42%;
+    }
+    .avi-detail h2 {
+        font-size: 16px;
+    }
+    .avilable-box {
+        padding: 26px 10px;
+    }
+    .available {
+        padding: 10px 0 0px;
+    }
+    .navbar-expand-lg .navbar-nav {
+        align-items: left;
+    }
+    .docQua_dtl h6, .docQua_box h6 {
+        font-size: 22px;
+    }
+    .review_box p {
+        font-size: 15px;
+        line-height: 1.2 !important;
+    }
+    .doc-breif .d-flex.align-items-center {
+        display: block !important;
+        text-align: center;
+    }
+    .breif-txt .d-flex.justify-content-between {
+        display: block !important;
+    }
+    .doc-breif .flex-shrink-0 img{
+        border-radius: 50%;
+    }
+    .breif-txt h4 {
+        margin: 0px 0 10px 0;
+    }
+    .sort_list .form-select{
+        font-size: 13px;
+    }
+    .sort_list label{
+        font-size: 10px;
+    }
+    .breif-txt p{
+        margin-top: 10px;
+    }
+    .doc-contact{
+        text-align: center;
+    }
+    .badge_box {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .loc-box {
+        display: block;
+    }
+    .srchform_box .form-control {
+        margin-right: 10px;
+        margin-bottom: 14px;
+    }
+    .loc-box .blue-btn {
+        display: block;
+        text-align: center;
+    }
+    .advisors-sec .title h3 {
+        font-size: 36px;
+    }
+    .advisors-sec .title span {
+        font-size: 14px;
+    }
+    .advisors-sec .title-img img {
+        width: 20%;
+    }
+    .doctor_sec .tab-content{
+        padding: 20px;
+    }
+    .write_review .fa {
+        font-size: 11px !important;
+        margin-right: 0px !important;
+        color: #3fabf3;
+    }
+    .write_review {
+        font-weight: 500;
+        font-size: 12px;
+    }
+    .star_div .fa {
+        color: #FFDF00;
+        font-size: 12px;
+        margin: 0 1px;
+    }
+    .tab-content>.active span{
+        font-size: 12px;
+    }
+    .testimonials .white_txt {
+        font-size: 32px !important;
+    }
+    .testi_box p {
+        font-size: 14px;
+        line-height: inherit;
+    }
+    .doc-listSec .blue-btn {
+        padding: 7px 12px !important;
+        margin-top: 10px;
+    }
+    .doc-listSec .breif-txt h4 {
+        margin: 20px 0 8px 0;
+    }
+    .treatment_content .doc-breif .d-flex {
+        display: block !important;
+    }
+    .treatment_content .docQua_dtl{
+        text-align: center;
+    }
+    .specializes ul li span:first-child {
+        max-width: 100px;
+        font-size: 12px;
+        min-width: 100px;
+    }
+    .specializes ul li span {
+        font-size: 12px;
+        color: #767676;
+    }
+    .specializes ul li {
+        text-align: left;
+    }
+    .breif-txt .cont-btn .sky-blue {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .blue-btn.pink_btn {
+        display: block;
+    }
+    .main-headTab ul {
+        flex-wrap: wrap;
+    }
+    .main-headTab ul li:not(:last-child) {
+        margin-bottom: 8px;
+    }
+    .docQua_dtl ul li {
+        text-align: left;
+    }
+    .docQua_dtl h6, .docQua_box h6 span {
+        font-size: 22px;
+    }
+    .per-recom{
+        margin: 0 auto;
+    }
+    .view-profile-btns{
+        text-align: center;
+    }
+    .view-profile-btns .sky-blue {
+        padding: 10px 16px;
+        font-size: 10px;
+        width: 100%;
+        margin-top: 8px;
+    }
+    .view-profile-btns .blue-btn.pink_btn {
+        display: block;
+        width: 100%;
+    }
+    .doc-listSec .doc-breif {
+        padding: 20px 20px !important;
+        text-align: center;
+    }
+    .doc-listSec .docList_bx .d-flex {
+        display: block !important;
+    }
+    .hospital-detail .docQua_dtl .degree {
+        padding-left: 0;
+        text-align: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .hospital-detail .docQua_dtl h6 {
+        font-size: 22px;
+    }
+    .treatment_tab .nav-link {
+        line-height: 16px;
+        font-size: 10px !important;
+        margin-right: 5px;
+        border-radius: 10px;
+        padding: 14px 10px;
+    }
+    .bnr_txt h1{
+        text-align: center;
+    }
+    .treatment_bnr .bnr_txt p{
+        text-align: center;
+    }
+    .treatment_form{
+        margin-top: 40px;
+    }
+    .work_box h3{
+        font-size: 24px;
+    }
+}
+
